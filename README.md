@@ -1,12 +1,11 @@
 # Open Your World!
 
-´´´csharp
-
+```csharp
 using UnityEngine;
 
 public class UserProfile : MonoBehaviour
 {
-
+    // Informações Pessoais
     string idade = "21 anos";
     string localizacao = "Luanda, Angola";
     string inicioProgramador = "2018";
@@ -23,6 +22,7 @@ public class UserProfile : MonoBehaviour
     string cargo = "Desenvolvedor Unity e Android Studio";
     string responsabilidades = "Desenvolvimento de jogos em Unity 3D e 2D, Criação de aplicativos com Android Studio";
 }
+
 
 
 
