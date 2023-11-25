@@ -9,13 +9,12 @@ public class UserProfile : MonoBehaviour
     string inicioProgramador = "2018";
     // Education
     string universidade = "Engenharia de Computação - 1º Ano";
-    // Skills
+    // Skills && Professional Experience
     string idiomas = "Português, Inglês";
     string desenvolvimentoSoftware = "Unity, Android Studio";
     string desenvolvimentoFrontEnd = "Web";
-    // Professional Experience
-    string cargo = "Desenvolvedor Unity && Android Studio && FrontEnd";
-    string responsabilidades = "Desenvolvimento de jogos em Unity 3D e 2D, Criação de aplicativos com Android Studio";
+    //Hobbies
+    string GameObject = Jogar Videogames, Comer, Spotify;
 }
 ```
 
