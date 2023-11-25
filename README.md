@@ -11,7 +11,7 @@ public class UserProfile : MonoBehaviour
     public string githubProgram = "All In Africa Student, 11.2023"
     public string AngoalaOpenSourceCommunity = "Developer Team";
     // Education
-    private string university = "Computer Engineering - 1st Year";
+    private string university = "Computer Engineering";
     // Skills && Professional Experience
     public string languages = "Portuguese, English";
     private string softwareDevelopment = "Unity, Android Studio";
