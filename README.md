@@ -1,5 +1,6 @@
 # Open Your World!
 
+```csharp
 using UnityEngine;
 
 public class UserProfile : MonoBehaviour
@@ -31,17 +32,17 @@ public class UserProfile : MonoBehaviour
 
     void MostrarPerfil()
     {
-        Debug.Log("🎂 Idade: " + idade);
-        Debug.Log("🌍 Localização: " + localizacao);
-        Debug.Log("📅 Início como Programador: " + inicioProgramador);
-        Debug.Log("\n## 📚 Educação");
-        Debug.Log("🎓 Universidade: " + universidade);
-        Debug.Log("\n## 🚀 Habilidades");
-        Debug.Log("🗣️ Idiomas: " + string.Join(", ", idiomas));
-        Debug.Log("💻 Desenvolvimento de Software: " + string.Join(", ", desenvolvimentoSoftware));
-        Debug.Log("🌐 Desenvolvimento Front-End: " + desenvolvimentoFrontEnd);
-        Debug.Log("\n## 💼 Experiência Profissional");
-        Debug.Log("👨‍💻 " + cargo);
+        Debug.Log("🎂 **Idade:** " + idade);
+        Debug.Log("🌍 **Localização:** " + localizacao);
+        Debug.Log("📅 **Início como Programador:** " + inicioProgramador);
+        Debug.Log("\n## 📚 **Educação**");
+        Debug.Log("🎓 **Universidade:** " + universidade);
+        Debug.Log("\n## 🚀 **Habilidades**");
+        Debug.Log("🗣️ **Idiomas:** " + string.Join(", ", idiomas));
+        Debug.Log("💻 **Desenvolvimento de Software:** " + string.Join(", ", desenvolvimentoSoftware));
+        Debug.Log("🌐 **Desenvolvimento Front-End:** " + desenvolvimentoFrontEnd);
+        Debug.Log("\n## 💼 **Experiência Profissional**");
+        Debug.Log("👨‍💻 **" + cargo + "**");
         
         foreach (string responsabilidade in responsabilidades)
         {
@@ -49,6 +50,7 @@ public class UserProfile : MonoBehaviour
         }
     }
 }
+
 
  
  <h2>Tools & Technologies </h2>
