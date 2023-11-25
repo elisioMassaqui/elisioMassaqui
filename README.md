@@ -27,7 +27,8 @@ public class UserProfile : MonoBehaviour
 
 <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/342363343_616042460068312_6276543480169252389_n.jpg" alt="Imagem" width="80" height="80"> 
 
-<img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/image6.png" alt="Imagem" width="139" height="100">
+<img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Android_Studio_icon_(2023).svg.png" alt="Android Studio Icon" width="80" height="80">
+
 
 
 
