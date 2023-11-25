@@ -1,3 +1,8 @@
+ h4 {
+            background-color: blue; /* Definindo a cor de fundo como azul */
+            color: white; /* Definindo a cor do texto como branco para contrastar com o fundo */
+            padding: 10px; /* Adicionando algum preenchimento interno para melhorar a aparência */
+        }
 <h4>Open Your World!</h2>
 
 ```csharp
