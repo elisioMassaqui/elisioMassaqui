@@ -16,7 +16,7 @@ public class UserProfile : MonoBehaviour
     private string beginYear = "2018, with WEB Projects";
     private string AOSC FEST = "Winner, Second-place winner in the Robotgames hackathon team. 2023"
     public string githubProgram = "All In Africa Student, 11.2023"
-    public string AngoalaOpenSourceCommunity = "Developer Team";
+    public string AngolaOpenSourceCommunity = "Developer Team";
     // Education
     private string university = "Computer Engineering";
     // Skills && Professional Experience
