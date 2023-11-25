@@ -6,18 +6,13 @@ using UnityEngine;
 public class UserProfile : MonoBehaviour
 {
     //Me
-    string idade = "21 anos";
-    string localizacao = "Luanda, Angola";
     string inicioProgramador = "2018";
-
     // Education
     string universidade = "Engenharia de Computação - 1º Ano";
-
     // Skills
     string idiomas = "Português, Inglês";
     string desenvolvimentoSoftware = "Unity, Android Studio";
     string desenvolvimentoFrontEnd = "Web";
-
     // Professional Experience
     string cargo = "Desenvolvedor Unity && Android Studio && FrontEnd";
     string responsabilidades = "Desenvolvimento de jogos em Unity 3D e 2D, Criação de aplicativos com Android Studio";
