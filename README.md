@@ -25,7 +25,7 @@ public class UserProfile : MonoBehaviour
 
 ### Tools & Technologies
 
-<img src="https://user-images.githubusercontent.com/61319844/156958898-1f821b0d-21a8-444c-bc01-3cc3f49a44e8.png" alt="Ícone Personalizado" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/61319844/156958898-1f821b0d-21a8-444c-bc01-3cc3f49a44e8.png" alt="Ícone Personalizado" width="60" height="60">
 
 
 
