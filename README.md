@@ -8,13 +8,13 @@ public class UserProfile : MonoBehaviour
     //Me
     private string inicioProgramador = "2018";
     // Education
-    private universidade = "Engenharia de Computação - 1º Ano";
+    private string universidade = "Engenharia de Computação - 1º Ano";
     // Skills && Professional Experience
-    public idiomas = "Português, Inglês";
-    private desenvolvimentoSoftware = "Unity, Android Studio";
-    public desenvolvimentoFrontEnd = "Web";
+    public string idiomas = "Português, Inglês";
+    private string desenvolvimentoSoftware = "Unity, Android Studio";
+    public string desenvolvimentoFrontEnd = "Web";
     //Hobbies
-    private string = "Jogar Videogames, Comer, Spotify";
+    private string Lover = "Jogar Videogames, Comer, Spotify";
 }
 ```
 
