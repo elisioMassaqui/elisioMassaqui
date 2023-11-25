@@ -2,7 +2,7 @@
 
 ### Tools & Technologies
 
-<img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/342363343_616042460068312_6276543480169252389_n.jpg" alt="Imagem" width="80" height="80"> <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Android_Studio_icon_(2023).svg.png" alt="Android Studio Icon" width="80" height="80"><img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/logo-vertical.png" alt="Logo Vertical" width="80" height="80">
+<img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/342363343_616042460068312_6276543480169252389_n.jpg" alt="Imagem" width="80" height="80"> <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/png-transparent-arduino-computer-software-library-electronics-computer-electronics-baby-computer-thumbnail.png" alt="Arduino" width="80" height="80"> <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Android_Studio_icon_(2023).svg.png" alt="Android Studio Icon" width="80" height="80"><img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/logo-vertical.png" alt="Logo Vertical" width="80" height="80">
 
 <h3>Open Your World!</h3>
 
