@@ -25,18 +25,6 @@ public class UserProfile : MonoBehaviour
 
 ### Tools & Technologies
 
-### Tecnologias Utilizadas :rocket:
-- Linguagem: C#
-- Framework: Unity
-- Banco de Dados: MongoDB
-
-### Como Contribuir :computer:
-1. Faça um fork do projeto.
-2. Crie uma branch para sua feature (`git checkout -b minha-feature`).
-3. Faça commit das suas mudanças (`git commit -m 'Adicionando nova funcionalidade'`).
-4. Faça push para a branch (`git push origin minha-feature`).
-5. Abra um Pull Request.
-
 <!---
 elisioMassaqui/elisioMassaqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
