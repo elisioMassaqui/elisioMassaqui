@@ -7,8 +7,9 @@ public class UserProfile : MonoBehaviour
 {
     //Me
     private string inicioProgramador = "2018, with WEB Projects";
-    public string AngoalaOpenSourceCommunity = "Developer Team";
+    private string AOSC FEST = "Winner, Second-place winner in the Robotgames hackathon team. 2023"
     public string githubProgram = "All In Africa Student, 11.2023"
+    public string AngoalaOpenSourceCommunity = "Developer Team";
     // Education
     private string universidade = "Engenharia de Computação - 1º Ano";
     // Skills && Professional Experience
