@@ -1,4 +1,4 @@
-<span style="background-color: blue; color: white; padding: 10px;"><h4>Open Your World!</h4></span>
+<h3>Open Your World!</h3>
 
 ```csharp
 using UnityEngine;
