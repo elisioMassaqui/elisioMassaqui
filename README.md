@@ -1,28 +1,34 @@
 # Open Your World!
 
+```html
+<style>
+  body { color: #8B00FF; } /* roxo */
+  strong { color: #00FF00; } /* verde */
+</style>
+
 ```csharp
 using UnityEngine;
 
 public class UserProfile : MonoBehaviour
 {
     // Informações pessoais
-    string idade = "21 anos";
-    string localizacao = "Luanda, Angola";
-    string inicioProgramador = "2018";
+    string idade = "<strong>21 anos</strong>";
+    string localizacao = "<strong>Luanda, Angola</strong>";
+    string inicioProgramador = "<strong>2018</strong>";
 
     // Educação
-    string universidade = "Primeiro Ano de Engenharia de Computação";
+    string universidade = "<strong>Primeiro Ano de Engenharia de Computação</strong>";
 
     // Habilidades
-    string[] idiomas = { "Português", "Inglês" };
-    string[] desenvolvimentoSoftware = { "Unity", "Android Studio" };
-    string desenvolvimentoFrontEnd = "Web";
+    string[] idiomas = { "<strong>Português</strong>", "<strong>Inglês</strong>" };
+    string[] desenvolvimentoSoftware = { "<strong>Unity</strong>", "<strong>Android Studio</strong>" };
+    string desenvolvimentoFrontEnd = "<strong>Web</strong>";
 
     // Experiência Profissional
-    string cargo = "Desenvolvedor Unity e Android Studio";
+    string cargo = "<strong>Desenvolvedor Unity e Android Studio</strong>";
     string[] responsabilidades = {
-        "Desenvolvimento de jogos em Unity 3D e 2D",
-        "Criação de aplicativos com Android Studio"
+        "<strong>Desenvolvimento de jogos em Unity 3D e 2D</strong>",
+        "<strong>Criação de aplicativos com Android Studio</strong>"
     };
 
     void Start()
@@ -50,6 +56,7 @@ public class UserProfile : MonoBehaviour
         }
     }
 }
+
 
 
  
