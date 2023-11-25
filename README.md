@@ -1,32 +1,55 @@
 # Open Your World!
 
-## ℹ️ Informações Pessoais
+using UnityEngine;
 
-- 📧 Email: elisiomassaqui8@gmail.com
-- 🌐 GitHub: [github.com/elisioMassaqui](https://github.com/elisioMassaqui)
-- 🔗 LinkedIn: [linkedin.com/in/el%C3%ADsio-massaqui-202635291](https://www.linkedin.com/in/el%C3%ADsio-massaqui-202635291)
+public class UserProfile : MonoBehaviour
+{
+    // Informações pessoais
+    string idade = "21 anos";
+    string localizacao = "Luanda, Angola";
+    string inicioProgramador = "2018";
 
-## 👦 Sobre Mim
+    // Educação
+    string universidade = "Primeiro Ano de Engenharia de Computação";
 
-- 🎂 Idade: 21 anos
-- 🌍 Localização: Luanda, Angola
-- 📅 Início como Programador: 2018
+    // Habilidades
+    string[] idiomas = { "Português", "Inglês" };
+    string[] desenvolvimentoSoftware = { "Unity", "Android Studio" };
+    string desenvolvimentoFrontEnd = "Web";
 
-## 📚 Educação
+    // Experiência Profissional
+    string cargo = "Desenvolvedor Unity e Android Studio";
+    string[] responsabilidades = {
+        "Desenvolvimento de jogos em Unity 3D e 2D",
+        "Criação de aplicativos com Android Studio"
+    };
 
-- 🎓 Universidade: Primeiro Ano de Engenharia de Computação
+    void Start()
+    {
+        MostrarPerfil();
+    }
 
-## 🚀 Habilidades
+    void MostrarPerfil()
+    {
+        Debug.Log("🎂 Idade: " + idade);
+        Debug.Log("🌍 Localização: " + localizacao);
+        Debug.Log("📅 Início como Programador: " + inicioProgramador);
+        Debug.Log("\n## 📚 Educação");
+        Debug.Log("🎓 Universidade: " + universidade);
+        Debug.Log("\n## 🚀 Habilidades");
+        Debug.Log("🗣️ Idiomas: " + string.Join(", ", idiomas));
+        Debug.Log("💻 Desenvolvimento de Software: " + string.Join(", ", desenvolvimentoSoftware));
+        Debug.Log("🌐 Desenvolvimento Front-End: " + desenvolvimentoFrontEnd);
+        Debug.Log("\n## 💼 Experiência Profissional");
+        Debug.Log("👨‍💻 " + cargo);
+        
+        foreach (string responsabilidade in responsabilidades)
+        {
+            Debug.Log("  - " + responsabilidade);
+        }
+    }
+}
 
-- 🗣️ Idiomas: Português, Inglês
-- 💻 Desenvolvimento de Software: Unity, Android Studio
-- 🌐 Desenvolvimento Front-End: Web
-
-## 💼 Experiência Profissional
-
-- 👨‍💻 Desenvolvedor Unity e Android Studio
-  - Desenvolvimento de jogos em Unity 3D e 2D
-  - Criação de aplicativos com Android Studio
  
  <h2>Tools & Technologies </h2>
 <p>
