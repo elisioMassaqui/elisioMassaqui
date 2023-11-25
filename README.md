@@ -1,7 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=elisioMassaqui&show_icons=true&hide=&count_private=true&title_color=5900ff&text_color=5900ff&icon_color=16ff00&bg_color=fffac6&hide_border=true&show_icons=true)](https://github.com/elisioMassaqui)
-
-
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=elisioMassaqui&show_icons=true&hide=&count_private=true&title_color=6f42c1&text_color=6f42c1&icon_color=6f42c1&bg_color=ffff00&hide_border=true&show_icons=true)](https://github.com/elisioMassaqui)
 
 <h3>Open Your World!</h3>
 
