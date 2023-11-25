@@ -25,7 +25,8 @@ public class UserProfile : MonoBehaviour
 
 ### Tools & Technologies
 
-[![Ícone Personalizado]([https://www.example.com/seu-icone.png](https://www.flaticon.com/free-icon/unity_5969346?term=unity&page=1&position=3&origin=tag&related_id=5969346))](https://user-images.githubusercontent.com/61319844/156958898-1f821b0d-21a8-444c-bc01-3cc3f49a44e8.png)
+<img src="https://user-images.githubusercontent.com/61319844/156958898-1f821b0d-21a8-444c-bc01-3cc3f49a44e8.png" alt="Ícone Personalizado" width="30" height="30">
+
 
 
 
