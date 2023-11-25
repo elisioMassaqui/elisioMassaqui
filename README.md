@@ -25,7 +25,8 @@ public class UserProfile : MonoBehaviour
 
 ### Tools & Technologies
 
-![Imagem](https://github.com/elisioMassaqui/elisioMassaqui/raw/main/342363343_616042460068312_6276543480169252389_n.jpg)
+<img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/342363343_616042460068312_6276543480169252389_n.jpg" alt="Imagem" width="60" height="60">
+
 
 
 
