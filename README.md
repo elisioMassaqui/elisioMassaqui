@@ -14,7 +14,7 @@ public class UserProfile : MonoBehaviour
     string desenvolvimentoSoftware = "Unity, Android Studio";
     string desenvolvimentoFrontEnd = "Web";
     //Hobbies
-    public GameObject = Jogar Videogames, Comer, Spotify;
+    private string = "Jogar Videogames, Comer, Spotify";
 }
 ```
 
