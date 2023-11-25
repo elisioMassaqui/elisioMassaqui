@@ -11,13 +11,13 @@ public class UserProfile : MonoBehaviour
     public string githubProgram = "All In Africa Student, 11.2023"
     public string AngoalaOpenSourceCommunity = "Developer Team";
     // Education
-    private string universidade = "Engenharia de Computação - 1º Ano";
+    private string university = "Computer Engineering - 1st Year";
     // Skills && Professional Experience
-    public string idiomas = "Português, Inglês";
-    private string desenvolvimentoSoftware = "Unity, Android Studio";
-    public string desenvolvimentoFrontEnd = "Web";
-    //Hobbies
-    private string Lover = "Jogar Videogames, Viajar Em Lugares Luxuosos, Comer, Spotify";
+    public string languages = "Portuguese, English";
+    private string softwareDevelopment = "Unity, Android Studio";
+    public string frontEndDevelopment = "Web";
+    // Hobbies
+    private string lover = "Playing Video Games, Traveling to Luxurious Places, Eating, Spotify";
 }
 ```
 
