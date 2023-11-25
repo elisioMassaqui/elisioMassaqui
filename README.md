@@ -1,4 +1,4 @@
-<h2>Open Your World!</h2>
+<h4>Open Your World!</h2>
 
 ```csharp
 using UnityEngine;
