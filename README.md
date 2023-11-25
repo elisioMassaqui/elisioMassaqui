@@ -20,7 +20,8 @@ public class UserProfile : MonoBehaviour
     private string lover = "Playing Video Games, Traveling to Luxurious Places, Eating, Spotify";
 }
 ```
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=elisioMassaqui&show_icons=true&hide=&count_private=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=c8a2c8&hide_border=true&show_icons=true)](https://github.com/elisioMassaqui)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=elisioMassaqui&show_icons=true&hide=&count_private=true&title_color=6f42c1&text_color=ffff00&icon_color=ffff00&bg_color=ffffff&hide_border=true&show_icons=true)](https://github.com/elisioMassaqui)
+
 
 
 
