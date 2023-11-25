@@ -25,6 +25,9 @@ public class UserProfile : MonoBehaviour
 
 ### Tools & Technologies
 
+<img src="[https://www.example.com/seu-icone.png](https://www.flaticon.com/free-icon/unity_5969346?term=unity&page=1&position=3&origin=tag&related_id=5969346)" alt="Ícone Personalizado" width="30" height="30">
+
+
 <!---
 elisioMassaqui/elisioMassaqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
