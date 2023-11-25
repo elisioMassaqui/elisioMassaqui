@@ -6,13 +6,13 @@ using UnityEngine;
 public class UserProfile : MonoBehaviour
 {
     //Me
-    string inicioProgramador = "2018";
+    private string inicioProgramador = "2018";
     // Education
-    string universidade = "Engenharia de Computação - 1º Ano";
+    private universidade = "Engenharia de Computação - 1º Ano";
     // Skills && Professional Experience
-    string idiomas = "Português, Inglês";
-    string desenvolvimentoSoftware = "Unity, Android Studio";
-    string desenvolvimentoFrontEnd = "Web";
+    public idiomas = "Português, Inglês";
+    private desenvolvimentoSoftware = "Unity, Android Studio";
+    public desenvolvimentoFrontEnd = "Web";
     //Hobbies
     private string = "Jogar Videogames, Comer, Spotify";
 }
