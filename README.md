@@ -15,6 +15,16 @@ public class UserProfile : MonoBehaviour
     public string desenvolvimentoFrontEnd = "Web";
     //Hobbies
     private string Lover = "Jogar Videogames, Comer, Spotify";
+  // Método para imprimir informações do perfil do usuário no console
+    public void PrintUserProfileInfo()
+    {
+        Debug.Log($"Ano de Início: {inicioProgramador}");
+        Debug.Log($"Universidade: {universidade}");
+        Debug.Log($"Idiomas: {idiomas}");
+        Debug.Log($"Desenvolvimento de Software: {desenvolvimentoSoftware}");
+        Debug.Log($"Desenvolvimento Front-end: {desenvolvimentoFrontEnd}");
+        Debug.Log($"Hobbies: {lover}");
+    }
 }
 ```
 
