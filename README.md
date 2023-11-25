@@ -1,11 +1,11 @@
 # Open Your World!
 
-´´´Csharp
+´´´csharp
 using UnityEngine;
 
 public class UserProfile : MonoBehaviour
 {
-    // Informações Pessoais
+
     string idade = "21 anos";
     string localizacao = "Luanda, Angola";
     string inicioProgramador = "2018";
