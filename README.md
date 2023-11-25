@@ -25,7 +25,7 @@ public class UserProfile : MonoBehaviour
 
 ### Tools & Technologies
 
-![Unity Logo](https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity.png)
+
 
 
 
