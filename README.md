@@ -28,15 +28,8 @@ public class UserProfile : MonoBehaviour
 }
 ```
 
+![T-Shirt Atrás](https://github.com/elisioMassaqui/elisioMassaqui/raw/main/t%20shirt%20atr%C3%A1s.png)
 
-
-
-
-
-
-
-
-![T-Shirt Frente](https://github.com/elisioMassaqui/elisioMassaqui/raw/main/t%20shirt%20frente.png)
 
 <!---
 elisioMassaqui/elisioMassaqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
