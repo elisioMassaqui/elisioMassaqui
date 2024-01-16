@@ -10,22 +10,29 @@
 ```csharp
 using UnityEngine;
 
-public class UserProfile : MonoBehaviour
+public class AwesomeDeveloper : MonoBehaviour
 {
-    //Me
-    private string beginYear = "2018, with WEB Projects";
-    private string AOSC FEST = "Winner, Second-place winner in the Robotgames hackathon team. 2023"
-    public string githubProgram = "All In Africa Student, 11.2023"
-    public string AngolaOpenSourceCommunity = "Developer Team";
-    // Education
-    private string university = "Computer Engineering";
-    // Skills && Professional Experience
-    public string languages = "Portuguese, English";
-    private string softwareDevelopment = "Unity, Android Studio";
-    public string frontEndDevelopment = "Web";
-    // Hobbies
-    private string lover = "Playing Video Games, Traveling to Luxurious Places, Eating, Spotify";
+    // 🚀 Journey
+    private string codingSince = "2018, crafting the web's magic ✨";
+    private string hackathonVictory = "🏆 Winner: Robotgames Hackathon Team, 2nd place in 2023";
+    public string githubAdventures = "🌍 All In Africa Student, since November 2023";
+    public string openSourceMagic = "💻 Proud member of Angola Open Source Community";
+    
+    // 📚 Education
+    private string universityDegree = "🎓 Pursuing greatness in Computer Engineering";
+
+    // 🚀 Skills && Professional Magic
+    public string multilingual = "🗣 Fluent in Portuguese, English";
+    private string wizardry = "🔮 Crafting spells with Unity, conjuring creations with Android Studio";
+    public string webSorcery = "🕸 Mastering the art of Front-End Development";
+
+    // 🎮 Hobbies
+    private string gamingPassion = "🎮 Playing Video Games";
+    private string luxuryAdventures = "✈️ Traveling to Luxurious Places";
+    private string epicureanJourney = "🍽 Enjoying the Culinary Arts";
+    public string musicEnthusiast = "🎵 Spotify Aficionado";
 }
+
 ```
 
 ![T-Shirt Atrás](https://github.com/elisioMassaqui/elisioMassaqui/raw/main/t%20shirt%20atr%C3%A1s.png)
