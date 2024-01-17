@@ -7,7 +7,8 @@
 
  ### Selos
  
- ![Android Studio User]([URL_DO_SEU_SELO](https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg))
+![Android Studio User](https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg)
+
 
 
 <h3>Open Your World!</h3>
