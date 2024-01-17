@@ -10,12 +10,6 @@
 [<img src="https://github.com/elisioMassaqui/elisioMassaqui/blob/main/badgeAndroidStudioUser.svg" alt="Android Studio User" width="80" height="80">](https://developers.google.com/profile/badges/activity/android/install-android-studio)
 
 
- 
-<img src="https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" width="80" height="80">
-
-
-
-
 <h3>Open Your World!</h3>
 
 ```csharp
