@@ -7,7 +7,8 @@
 
  ### Selos
 
- [![Android Studio User](https://github.com/elisioMassaqui/elisioMassaqui/blob/main/badgeAndroidStudioUser.svg)](https://developers.google.com/profile/badges/activity/android/install-android-studio)
+[<img src="https://github.com/elisioMassaqui/elisioMassaqui/blob/main/badgeAndroidStudioUser.svg" alt="Android Studio User" width="80" height="80">](https://developers.google.com/profile/badges/activity/android/install-android-studio)
+
 
  
 <img src="https://developers.google.com/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" width="80" height="80">
