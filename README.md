@@ -7,21 +7,14 @@
 
  ### Selos
 
-<ul>
-  <li>
-    <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="80" height="80">
-  </li>
-  <li>
-    <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
-      <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/badgeAndroidStudioUser.svg" alt="Android Studio User" width="80" height="80">
-    </a>
-  </li>
-  <li>
-    <a href="https://developers.google.com/profile/badges/profile/created-profile?hl=pt-br">
-      <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/created_profile.svg" alt="Created Profile" width="80" height="80">
-    </a>
-  </li>
-</ul>
+<img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="80" height="80">
+<a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
+  <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/badgeAndroidStudioUser.svg" alt="Android Studio User" width="80" height="80">
+</a>
+<a href="https://developers.google.com/profile/badges/profile/created-profile?hl=pt-br">
+  <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/created_profile.svg" alt="Created Profile" width="80" height="80">
+</a>
+
 
 
 
