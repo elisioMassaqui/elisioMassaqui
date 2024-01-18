@@ -7,14 +7,12 @@
 
  ### Selos
 
-< a img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="80" height="80">
-</a>
-<a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
+<div>
+  <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="80" height="80">
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/badgeAndroidStudioUser.svg" alt="Android Studio User" width="80" height="80">
-</a>
-<a href="https://developers.google.com/profile/badges/profile/created-profile?hl=pt-br">
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/created_profile.svg" alt="Created Profile" width="80" height="80">
-</a>
+</div>
+
 
 
 
