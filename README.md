@@ -2,12 +2,12 @@
 
 ### Tools & Technologies
 
-<img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="80" height="80">
 <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/vtzpl5c9yd181.png" alt="Imagem" width="85" height="85"> <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Antu_arduino-icon-small.svg.png" alt="Arduino" width="80" height="80">
  <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Android_Studio_icon_(2023).svg.png" alt="Android Studio Icon" width="80" height="80"><img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/1611674.png" alt="Imagem" width="90" height="90">
 
  ### Selos
 
+<img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="80" height="80">
 [<img src="https://github.com/elisioMassaqui/elisioMassaqui/blob/main/badgeAndroidStudioUser.svg" alt="Android Studio User" width="80" height="80">](https://developers.google.com/profile/badges/activity/android/install-android-studio)
 [<img src="https://github.com/elisioMassaqui/elisioMassaqui/blob/main/created_profile.svg" alt="Created Profile" width="80" height="80">](https://developers.google.com/profile/badges/profile/created-profile?hl=pt-br)
 
