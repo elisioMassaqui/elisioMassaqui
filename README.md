@@ -6,8 +6,8 @@
  <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Android_Studio_icon_(2023).svg.png" alt="Android Studio Icon" width="80" height="80"><img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/1611674.png" alt="Imagem" width="90" height="90">
 
  ### Selos
-<a
-<img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="80" height="80">
+
+< a img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="80" height="80">
 </a>
 <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/badgeAndroidStudioUser.svg" alt="Android Studio User" width="80" height="80">
