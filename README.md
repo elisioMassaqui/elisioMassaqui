@@ -7,7 +7,7 @@
 
  ### Selos
  
-[![Unity Essentials Badge](https://github.com/elisioMassaqui/elisioMassaqui/blob/main/unity-essentials-pathway.png)](https://www.credly.com/badges/482aa795-dc23-463c-8863-4277ea581b42/public_url)
+[![Unity Essentials Badge](https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png =80x80)](https://www.credly.com/badges/482aa795-dc23-463c-8863-4277ea581b42/public_url)
 [<img src="https://github.com/elisioMassaqui/elisioMassaqui/blob/main/badgeAndroidStudioUser.svg" alt="Android Studio User" width="80" height="80">](https://developers.google.com/profile/badges/activity/android/install-android-studio)
 [<img src="https://github.com/elisioMassaqui/elisioMassaqui/blob/main/created_profile.svg" alt="Created Profile" width="80" height="80">](https://developers.google.com/profile/badges/profile/created-profile?hl=pt-br)
 
