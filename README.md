@@ -5,7 +5,7 @@
 <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/vtzpl5c9yd181.png" alt="Imagem" width="85" height="85"> <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Antu_arduino-icon-small.svg.png" alt="Arduino" width="80" height="80">
  <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Android_Studio_icon_(2023).svg.png" alt="Android Studio Icon" width="80" height="80"><img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/1611674.png" alt="Imagem" width="90" height="90">
 
- ### Selos
+ ### Medal Of Honor
 
 <div>
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="80" height="80">
