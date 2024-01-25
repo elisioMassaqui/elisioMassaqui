@@ -24,8 +24,10 @@
 
 ```csharp
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
 
-public class AwesomeDeveloper : MonoBehaviour
+public classe elisioMassaqui : MonoBehaviour
 {
     // 🚀 Journey
     private string codingSince = "2018, crafting the web's magic ✨";
