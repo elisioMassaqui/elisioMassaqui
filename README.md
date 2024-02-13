@@ -52,6 +52,9 @@ public classe elisioMassaqui : MonoBehaviour
 
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisioMassaqui)](https://github.com/elisioMassaqui/github-readme-stats)
+
+
 ![T-Shirt Atrás](https://github.com/elisioMassaqui/elisioMassaqui/raw/main/t%20shirt%20atr%C3%A1s.png)
 
 
