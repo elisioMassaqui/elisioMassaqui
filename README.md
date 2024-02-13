@@ -13,11 +13,7 @@
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/created_profile.svg" alt="Created Profile" width="80" height="80">
 </div>
 
-<div style="background-color: #ffd700; padding: 20px; border-radius: 8px;">
-  <a href="https://github.com/elisioMassaqui/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisioMassaqui" />
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisioMassaqui)](https://github.com/elisioMassaqui/github-readme-stats)
 
 
 <h3>Open Your World!</h3>
