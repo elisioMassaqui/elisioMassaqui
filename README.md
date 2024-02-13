@@ -13,11 +13,11 @@
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/created_profile.svg" alt="Created Profile" width="80" height="80">
 </div>
 
-
-
-
-
-
+<div style="background-color: #ffd700; padding: 20px; border-radius: 8px;">
+  <a href="https://github.com/elisioMassaqui/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisioMassaqui" />
+  </a>
+</div>
 
 
 <h3>Open Your World!</h3>
@@ -53,9 +53,6 @@ public classe elisioMassaqui : MonoBehaviour
 ```
 
 ![T-Shirt Atrás](https://github.com/elisioMassaqui/elisioMassaqui/raw/main/t%20shirt%20atr%C3%A1s.png)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisioMassaqui&layout=compact)](https://github.com/elisioMassaqui/github-readme-stats)
-
 
 <!---
 elisioMassaqui/elisioMassaqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
