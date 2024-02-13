@@ -10,7 +10,6 @@
 <div>
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="80" height="80">
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/badgeAndroidStudioUser.svg" alt="Android Studio User" width="80" height="80">
-  <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/created_profile.svg" alt="Created Profile" width="80" height="80">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisioMassaqui)](https://github.com/elisioMassaqui/github-readme-stats)
