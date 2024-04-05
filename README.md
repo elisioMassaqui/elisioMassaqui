@@ -3,13 +3,15 @@
 ### Tools & Technologies
 
 <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/vtzpl5c9yd181.png" alt="Imagem" width="100" height="100"> <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Antu_arduino-icon-small.svg.png" alt="Arduino" width="90" height="90">
- <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Android_Studio_icon_(2023).svg.png" alt="Android Studio Icon" width="85" height="185"><img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/1611674.png" alt="Imagem" width="90" height="90">
+ <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Android_Studio_icon_(2023).svg.png" alt="Android Studio Icon" width="85" height="85">
+ <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/1611674.png" alt="Imagem" width="90" height="90">
 
  ### Medal Of Honor
 
 <div>
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="80" height="80">
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/badgeAndroidStudioUser.svg" alt="Android Studio User" width="80" height="80">
+  <img src="https://github.com/elisioMassaqui/elisioMassaqui/blob/main/all-in-open-source-contributor%20(1).png" alt="Android Studio User" width="90" height="90">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisioMassaqui)](https://github.com/elisioMassaqui/github-readme-stats)
