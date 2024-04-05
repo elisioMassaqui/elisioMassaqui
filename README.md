@@ -3,7 +3,7 @@
 ### Tools & Technologies
 
 <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/vtzpl5c9yd181.png" alt="Imagem" width="100" height="100"> <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Antu_arduino-icon-small.svg.png" alt="Arduino" width="90" height="90">
- <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Android_Studio_icon_(2023).svg.png" alt="Android Studio Icon" width="100" height="100"><img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/1611674.png" alt="Imagem" width="90" height="90">
+ <img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/Android_Studio_icon_(2023).svg.png" alt="Android Studio Icon" width="85" height="185"><img src="https://github.com/elisioMassaqui/elisioMassaqui/raw/main/1611674.png" alt="Imagem" width="90" height="90">
 
  ### Medal Of Honor
 
