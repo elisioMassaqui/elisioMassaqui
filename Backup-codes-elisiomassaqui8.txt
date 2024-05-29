@@ -1,0 +1,14 @@
+SALVAR SEUS CÓDIGOS DE BACKUP
+Mantenha esses códigos de backup em um lugar seguro, mas acessível.
+
+1. 6211 3124		 6. 8304 3538
+2. 3164 7777		 7. 5283 3158
+3. 1747 6744		 8. 2622 4802
+4. 2492 6233		 9. 7402 6517
+5. 0591 4737		10. 4145 6718
+
+(elisiomassaqui8@gmail.com)
+
+* Você só pode usar cada código alternativo uma única vez.
+* Precisa de mais? Visite https://g.co/2sv
+* Esses códigos foram gerados em 29 de mai. de 2024.
