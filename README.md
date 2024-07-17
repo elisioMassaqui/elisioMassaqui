@@ -24,56 +24,52 @@
 <h3>Open Your World!</h3>
 
 ```python
-
 import pygame
 
 class ElisioMassaqui:
     def __init__(self):
-        # 🚀 Journey
-        self.coding_since = "2018, crafting the web's magic ✨"
-        self.hackathon_victory = "🏆 Winner: Robotgames Hackathon Team, 2nd place in 2023"
-        self.github_adventures = "🌍 All In Africa Student, since November 2023"
-        self.open_source_magic = "💻 Proud member of Angola Open Source Community"
-        
-        # 📚 Education
-        self.university_degree = "🎓 Pursuing greatness in Computer Engineering"
+        # 🚀 Jornada
+        self.programando_desde = "2018, criando a magia da web e desktop ✨"
+        self.vitoria_hackathon = "🏆 Vencedor: Equipe do Robotgames Hackathon, 2º lugar em 2023"
+        self.aventuras_github = "🌍 All In Africa Student, desde novembro de 2023"
+        self.magia_open_source = "💻 Membro orgulhoso da Comunidade de Código Aberto de Angola"
 
-        # 🚀 Skills && Professional Magic
-        self.multilingual = "🗣 Fluent in Portuguese, English"
-        self.wizardry = "🔮 Crafting spells with Unity, conjuring creations with Android Studio"
-        self.web_sorcery = "🕸 Mastering the art of Front-End Development"
+        # 🚀 Habilidades && Magia Profissional
+        self.simulacao_3d = "🌐 Desenvolvedor de simulação 3D com Three.js"
+        self.multilingue = "🗣 Fluente em Português, Inglês"
+        self.feiticaria = "🔮 Criando feitiços com Unity"
+        self.feitiçaria_web = "🕸 Dominando a arte do Desenvolvimento Front-End"
 
         # 🎮 Hobbies
-        self.gaming_passion = "🎮 Playing Video Games"
-        self.luxury_adventures = "✈️ Traveling to Luxurious Places"
-        self.epicurean_journey = "🍽 Enjoying the Culinary Arts"
-        self.music_enthusiast = "🎵 Spotify Aficionado"
+        self.paixao_por_jogos = "🎮 Jogando Video Games"
+        self.aventuras_de_luxo = "✈️ Viajando para Lugares Luxuosos"
+        self.jornada_epicurista = "🍽 Desfrutando das Artes Culinárias"
+        self.entusiasta_de_musica = "🎵 Aficionado por Spotify"
 
-# Example usage
+# Exemplo de uso
 if __name__ == "__main__":
-    # Initialize pygame
+    # Inicializar pygame
     pygame.init()
 
-    # Create an instance of ElisioMassaqui
+    # Criar uma instância de ElisioMassaqui
     elisio = ElisioMassaqui()
 
-    # Print attributes to demonstrate the class usage
-    print(elisio.coding_since)
-    print(elisio.hackathon_victory)
-    print(elisio.github_adventures)
-    print(elisio.open_source_magic)
-    print(elisio.university_degree)
-    print(elisio.multilingual)
-    print(elisio.wizardry)
-    print(elisio.web_sorcery)
-    print(elisio.gaming_passion)
-    print(elisio.luxury_adventures)
-    print(elisio.epicurean_journey)
-    print(elisio.music_enthusiast)
+    # Imprimir atributos para demonstrar o uso da classe
+    print(elisio.programando_desde)
+    print(elisio.vitoria_hackathon)
+    print(elisio.aventuras_github)
+    print(elisio.magia_open_source)
+    print(elisio.multilingue)
+    print(elisio.feiticaria)
+    print(elisio.feitiçaria_web)
+    print(elisio.simulacao_3d)
+    print(elisio.paixao_por_jogos)
+    print(elisio.aventuras_de_luxo)
+    print(elisio.jornada_epicurista)
+    print(elisio.entusiasta_de_musica)
 
-    # Quit pygame
+    # Encerrar pygame
     pygame.quit()
-
 
 ```
 
