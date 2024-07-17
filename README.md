@@ -23,33 +23,57 @@
 
 <h3>Open Your World!</h3>
 
-```csharp
-using UnityEngine;
-using UnityEngine.UI;
-using TMPro;
+```python
 
-public classe elisioMassaqui : MonoBehaviour
-{
-    // 🚀 Journey
-    private string codingSince = "2018, crafting the web's magic ✨";
-    private string hackathonVictory = "🏆 Winner: Robotgames Hackathon Team, 2nd place in 2023";
-    public string githubAdventures = "🌍 All In Africa Student, since November 2023";
-    public string openSourceMagic = "💻 Proud member of Angola Open Source Community";
-    
-    // 📚 Education
-    private string universityDegree = "🎓 Pursuing greatness in Computer Engineering";
+import pygame
 
-    // 🚀 Skills && Professional Magic
-    public string multilingual = "🗣 Fluent in Portuguese, English";
-    private string wizardry = "🔮 Crafting spells with Unity, conjuring creations with Android Studio";
-    public string webSorcery = "🕸 Mastering the art of Front-End Development";
+class ElisioMassaqui:
+    def __init__(self):
+        # 🚀 Journey
+        self.coding_since = "2018, crafting the web's magic ✨"
+        self.hackathon_victory = "🏆 Winner: Robotgames Hackathon Team, 2nd place in 2023"
+        self.github_adventures = "🌍 All In Africa Student, since November 2023"
+        self.open_source_magic = "💻 Proud member of Angola Open Source Community"
+        
+        # 📚 Education
+        self.university_degree = "🎓 Pursuing greatness in Computer Engineering"
 
-    // 🎮 Hobbies
-    private string gamingPassion = "🎮 Playing Video Games";
-    private string luxuryAdventures = "✈️ Traveling to Luxurious Places";
-    private string epicureanJourney = "🍽 Enjoying the Culinary Arts";
-    public string musicEnthusiast = "🎵 Spotify Aficionado";
-}
+        # 🚀 Skills && Professional Magic
+        self.multilingual = "🗣 Fluent in Portuguese, English"
+        self.wizardry = "🔮 Crafting spells with Unity, conjuring creations with Android Studio"
+        self.web_sorcery = "🕸 Mastering the art of Front-End Development"
+
+        # 🎮 Hobbies
+        self.gaming_passion = "🎮 Playing Video Games"
+        self.luxury_adventures = "✈️ Traveling to Luxurious Places"
+        self.epicurean_journey = "🍽 Enjoying the Culinary Arts"
+        self.music_enthusiast = "🎵 Spotify Aficionado"
+
+# Example usage
+if __name__ == "__main__":
+    # Initialize pygame
+    pygame.init()
+
+    # Create an instance of ElisioMassaqui
+    elisio = ElisioMassaqui()
+
+    # Print attributes to demonstrate the class usage
+    print(elisio.coding_since)
+    print(elisio.hackathon_victory)
+    print(elisio.github_adventures)
+    print(elisio.open_source_magic)
+    print(elisio.university_degree)
+    print(elisio.multilingual)
+    print(elisio.wizardry)
+    print(elisio.web_sorcery)
+    print(elisio.gaming_passion)
+    print(elisio.luxury_adventures)
+    print(elisio.epicurean_journey)
+    print(elisio.music_enthusiast)
+
+    # Quit pygame
+    pygame.quit()
+
 
 ```
 
