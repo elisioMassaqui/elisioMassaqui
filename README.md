@@ -20,7 +20,8 @@
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elisioMassaqui&theme=dark)
+![GitHub contributions](https://github-contribs.vercel.app/api?username=elisioMassaqui)
+
 
 
 
