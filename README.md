@@ -18,7 +18,8 @@
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/blob/main/all-in-open-source-contributor%20(1).png" alt="Android Studio User" width="90" height="90">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisioMassaqui)](https://github.com/elisioMassaqui/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisioMassaqui&show_icons=true&theme=dark)
+
 
 
 <h3>Open Your World!</h3>
