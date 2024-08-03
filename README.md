@@ -18,7 +18,11 @@
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/blob/main/all-in-open-source-contributor%20(1).png" alt="Android Studio User" width="90" height="90">
 </div>
 
-![GitHub contributions](https://github-contribs.vercel.app/api?username=elisioMassaqui)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elisioMassaqui&theme=dark)
+
+
 
 
 <h3>Open Your World!</h3>
