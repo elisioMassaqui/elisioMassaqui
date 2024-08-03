@@ -19,11 +19,7 @@
 </div>
 
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elisioMassaqui&theme=dracula)
-
-
-
+![Programming Languages](https://img.shields.io/github/languages/top/elisioMassaqui/your-repo?style=flat-square)
 
 
 
