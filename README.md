@@ -18,9 +18,7 @@
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/blob/main/all-in-open-source-contributor%20(1).png" alt="Android Studio User" width="90" height="90">
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elisioMassaqui&theme=dark)
-
-
+![GitHub contributions](https://github-contribs.vercel.app/api?username=elisioMassaqui)
 
 
 <h3>Open Your World!</h3>
@@ -74,6 +72,8 @@ if __name__ == "__main__":
     pygame.quit()
 
 ```
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elisioMassaqui&theme=dark)
 
 ![T-Shirt Atrás](https://github.com/elisioMassaqui/elisioMassaqui/raw/main/t%20shirt%20atr%C3%A1s.png)
 
