@@ -20,7 +20,8 @@
 
 
 
-![GitHub contributions](https://github-contribs.vercel.app/api?username=elisioMassaqui)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elisioMassaqui&theme=dracula)
+
 
 
 
