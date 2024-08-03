@@ -18,7 +18,8 @@
   <img src="https://github.com/elisioMassaqui/elisioMassaqui/blob/main/all-in-open-source-contributor%20(1).png" alt="Android Studio User" width="90" height="90">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisioMassaqui&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elisioMassaqui&theme=dark)
+
 
 
 
